@@ -10373,3 +10373,10 @@ ul {
 .font-weight-semibold {
     font-weight: 600;
 }
+
+.hero-pattern {
+  background: url(../image/webp/hero-pattern.webp);
+  background-repeat: no-repeat;
+  background-position: -200% 0;
+  background-size: 120%;
+}
